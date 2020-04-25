@@ -1,14 +1,7 @@
 {
-    "name": "hexlet/trees",
+    "name": "zharinovkv/trees",
     "description": "Trees implementation",
     "license": "MIT",
-    "keywords": ["hexlet, trees"],
-    "authors": [
-        {
-            "name": "Sergey Karpuk",
-            "email": "sergey.k@hexlet.io"
-        }
-    ],
     "require": {
         "php": ">=7.2.0"
     },
